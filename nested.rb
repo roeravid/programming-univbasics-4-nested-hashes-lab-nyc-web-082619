@@ -97,16 +97,16 @@ def changing_alan
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => "Object Orientation",
+          :known_for => "GUI",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
-          :known_for => "GUI",
+          :known_for => "Unix",
           :languages => "C"
         }
      }
      #change what Alan Kay is :known_for to the value of the alans_new_info variable.
-     #alans_new_info = "GUI"
+     #:alans_new_info = "GUI"
 
 
 end
